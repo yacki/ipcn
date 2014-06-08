@@ -4,7 +4,7 @@ ipcn
 Why you need this
 ------
 
-Many VP_Network user want to access Chinese website via local connection.
+Many VP_Network users want to access Chinese websites via local connection.
 
 But it is very difficult to add all of them to the route table, because there are too many IP addresses.
 
@@ -15,7 +15,7 @@ This script will add route for CN IP.
 Usage
 ------
 
-Please run `addroute.bat` before you dail the VP Network connection &
+Please run `addroute.bat` before you dail up the VP Network connection &
 
 Please run `delroute.bat` after you disconnect it.
 
