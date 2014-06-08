@@ -10,11 +10,14 @@ I DID IT!!
 This script will add route for CN IP. 
 
 Please run addroute.bat before you dail the VP Network connection &
+
 Please run delroute.bat after you disconnect it.
+
 If you are a Win7/8 user, you must run as administrator.
 
 ****
-There are more than 3800 subnets in China. I compressed them to 60 subnets.
+There are more than 3800 subnets in China. I compressed them into 60 subnets.
+
 If you want to use full version, run addroute_full.bat
 
 
