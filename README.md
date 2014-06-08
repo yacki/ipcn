@@ -15,7 +15,7 @@ If you are a Win7/8 user, you must run as administrator.
 
 ****
 There are more than 3800 subnets in China. I compressed them to 60 subnets.
-If you want to use full version, tell me.
+If you want to use full version, run addroute_full.bat
 
 
 ====
@@ -38,7 +38,7 @@ If you want to use full version, tell me.
 我将它们压缩到60条，使它在1秒钟即可完成，同时也避免了每日更新的麻烦。
 
 这在大多数情况下够用了。当然，这么做的代价是有可能对JP/TW的网站判断不精确。
-如果您需要完整版本，请告诉我，我会考虑制作。
+如果您需要完整版本，请执行addroute_full.bat。
 
 ====
 
