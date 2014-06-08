@@ -20,15 +20,17 @@ If you want to use full version, tell me.
 
 ====
 
-很多有特定需求的人希望对本国网络使用本地连接。
+很多人都有一个梦想：访问国内用局域网，访问国外走*PN。
 
-但是由于IP数量太多，这个美好的愿望很难完成。
+否则切来切去，麻烦！这种痛苦你懂的！但是由于IP数量太多，这个梦想几乎不可能完成。
 
-我实现了这个脚本，可以自动将大陆的IP地址加入路由表中。
+现在，我实现了这个脚本！可以自动将大陆的IP地址加入路由表中。
 
-在拨号前，运行addroute.bat这个脚本。想要删除这些路由，请使用delroute.bat。
+您只需要在拨号前，轻轻点击addroute.bat这个脚本。
 
-如果是Windows Vista/7/8的用户，您需要右键->使用管理员身份运行(Run as Administrator)。
+万一哪天你后悔了，我也提供后悔药delroute.bat。
+
+如果是Windows Vista/7/8的用户，很不幸，您需要右键->使用管理员身份运行(Run as Administrator)。
 
 ****
 
@@ -40,8 +42,8 @@ If you want to use full version, tell me.
 
 ====
 
-说明：
-原始程序来自
-http://chnroutes-dl.appspot.com
-数据来自
-http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest
+感谢原始程序的开发者：http://chnroutes-dl.appspot.com
+
+感谢原始数据的提供者：http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest
+
+最后，特别感谢和问候亲爱的D和你们全家，让我们享受逆流而上的快感。
