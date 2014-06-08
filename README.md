@@ -1,6 +1,9 @@
 ipcn
 ====
 
+Why you need this
+------
+
 Many VP_Network user want to access Chinese website via local connection.
 
 But it is very difficult to add all of them to the route table, because there are too many IP addresses.
@@ -9,18 +12,24 @@ I DID IT!!
 
 This script will add route for CN IP. 
 
-Please run addroute.bat before you dail the VP Network connection &
+Usage
+------
 
-Please run delroute.bat after you disconnect it.
+Please run `addroute.bat` before you dail the VP Network connection &
+
+Please run `delroute.bat` after you disconnect it.
 
 If you are a Win7/8 user, you must run as administrator.
 
-****
+Full Version
+------
+
 There are more than 3800 subnets in China. I compressed them into 60 subnets.
 
-If you want to use full version, run addroute_full.bat
+If you want to use full version, run `addroute_full.bat`
 
 
+介绍
 ====
 
 很多人都有一个梦想：访问国内用局域网，访问国外走*PN。
@@ -29,9 +38,12 @@ If you want to use full version, run addroute_full.bat
 
 现在，我实现了这个脚本！可以自动将大陆的IP地址加入路由表中。
 
-您只需要在拨号前，轻轻点击addroute.bat这个脚本。
+用法 
+------
 
-万一哪天你后悔了，我也提供后悔药delroute.bat。
+您只需要在拨号前，轻轻点击`addroute.bat`这个脚本。
+
+万一哪天你后悔了，我也提供后悔药`delroute.bat`。
 
 如果是Windows Vista/7/8的用户，很不幸，您需要右键->使用管理员身份运行(Run as Administrator)。
 
@@ -41,7 +53,7 @@ If you want to use full version, run addroute_full.bat
 我将它们压缩到60条，使它在1秒钟即可完成，同时也避免了每日更新的麻烦。
 
 这在大多数情况下够用了。当然，这么做的代价是有可能对JP/TW的网站判断不精确。
-如果您需要完整版本，请执行addroute_full.bat。
+如果您需要完整版本，请执行`addroute_full.bat`。
 
 ====
 
