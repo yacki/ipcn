@@ -33,6 +33,15 @@ If you want to use full version, tell me.
 ****
 
 整个原始的路由表有多达3800条记录，运行起来可能需要几分钟的时间，让人非常捉急。
-我将它们压缩到60条，使它在1秒钟即可完成。
+我将它们压缩到60条，使它在1秒钟即可完成，同时也避免了每日更新的麻烦。
+
 这在大多数情况下够用了。当然，这么做的代价是有可能对JP/TW的网站判断不精确。
 如果您需要完整版本，请告诉我，我会考虑制作。
+
+====
+
+说明：
+原始程序来自
+http://chnroutes-dl.appspot.com
+数据来自
+http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest
