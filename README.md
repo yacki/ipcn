@@ -1,4 +1,4 @@
-ipcn - A Route Auto-Add Tool for Asia IP Subnets
+ipcn - An Asia IP Subnets Route Adding Tool
 ====
 
 Why you need this
