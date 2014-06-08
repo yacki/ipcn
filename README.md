@@ -28,9 +28,10 @@ There are more than 3800 subnets in China. I compressed them into 60 subnets.
 
 If you want to use full version, run `addroute_full.bat`
 
+****
 
 介绍
-====
+------
 
 很多人都有一个梦想：访问国内用局域网，访问国外走*PN。
 
@@ -47,7 +48,9 @@ If you want to use full version, run `addroute_full.bat`
 
 如果是Windows Vista/7/8的用户，很不幸，您需要右键->使用管理员身份运行(Run as Administrator)。
 
-****
+
+完整版
+------
 
 整个原始的路由表有多达3800条记录，运行起来可能需要几分钟的时间，让人非常捉急。
 我将它们压缩到60条，使它在1秒钟即可完成，同时也避免了每日更新的麻烦。
